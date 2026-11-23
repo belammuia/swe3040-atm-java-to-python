@@ -49,7 +49,7 @@ No external dependencies are required.
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone git@github.com:belammuia/swe3040-atm-java-to-python.git
 cd swe3040-atm-java-to-python
 ```
 
