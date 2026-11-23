@@ -1,4 +1,4 @@
-from transactions.transaction import Transaction
+from atm.transactions.transaction import Transaction
 
 
 class BalanceInquiry(Transaction):
